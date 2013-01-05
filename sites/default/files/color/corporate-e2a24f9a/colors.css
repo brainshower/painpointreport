@@ -1,0 +1,309 @@
+/* Base Color*/
+
+body {
+    background: none repeat-x scroll 0 0 #ffffff;	
+}
+
+#views_slideshow_cycle_main_jquery_slideshow-block_1{
+	background: url(/sites/all/themes/corporate/images/glow.png) no-repeat scroll 0 0 #ffffff;
+}
+  
+#views_slideshow_cycle_main_jquery_slideshow-block_1 .views-slideshow-cycle-main-frame-row  img{
+    background: url(/sites/all/themes/corporate/images/glow.png) no-repeat scroll -370px 0 #ffffff;
+}
+
+/* Blocks Color */
+
+.region-sidebar-second .block .content {
+    background: none repeat scroll 0 0 #d6d6d6;
+}
+
+.field-type-taxonomy-term-reference{
+	background: none repeat scroll 0 0 #d6d6d6;
+}
+
+.views-field-field-related-products{
+    background: none repeat scroll 0 0 #d6d6d6;
+}
+
+.field-name-field-related-products {
+    background: none repeat scroll 0 0 #d6d6d6;
+}
+
+#comments{
+	background: none repeat scroll 0 0 #d6d6d6;
+}
+
+#contact-site-form {
+    background: none repeat scroll 0 0 #d6d6d6;
+    padding: 1px 27px 10px;
+}
+
+
+/* Headers Color*/
+
+h1, h2, h3, h4, h5, h6{
+	color: #000000 ;
+}
+
+h2 a, h3 a {
+    color: #000000 !important;
+}
+
+.view-id-home_page.view-display-id-attachment_1 .views-field-field-home-item-title a {
+    color: #000000; 
+}
+
+#views_slideshow_cycle_main_jquery_slideshow-block_1 .views-field-field-description {
+    color: #000000; 
+}
+
+.view-id-home_page.view-display-id-attachment_4  .views-field-title-1 a{
+    color: #000000;
+}
+
+#block-comment-recent a{
+	color: #000000;
+}
+
+.view-id-home_page.view-display-id-attachment_1 .views-field-field-related-products ul a{
+   color: #000000;
+}
+
+.field-name-field-related-products a{
+   color: #000000;
+}
+
+/* Main Menu Color */
+
+#views_slideshow_cycle_main_jquery_slideshow-block_1 .views-slideshow-cycle-main-frame-row img {
+    border-bottom: 1px solid #ffffff;
+}
+
+#corporate-header {
+    background-color: #ffffff;	
+	box-shadow: 0 1px 7px #ffffff; /* Menu Shadow Color*/
+}
+
+#header {
+    background-color: #ffffff;    
+}
+
+.view-id-jquery_slideshow.view-display-id-block_1 .active .selector{
+	background: #ffffff;	
+}
+
+#block-system-main img {
+    border: 1px solid #ffffff;
+}
+
+.region-sidebar-second .views-row img {
+    border: 1px solid #ffffff;
+}
+
+#block-system-main-menu ul li.expanded ul {
+    background-color: #ffffff !important;
+}
+
+h1, h2, h3{
+    border-color: #ffffff !important;
+}
+
+h2, h3{
+	text-shadow: 1px 1px 1px #ffffff;
+}
+
+body {
+    border-color: #ffffff;
+}
+
+h2.block-title {
+    border-bottom: 1px solid #ffffff;    
+}
+
+.view-display-id-page.view-dom-id-1:first-child .views-field-field-home-item-title h2 {
+    border-bottom: 1px solid #ffffff;    
+}
+
+.view-id-home_page.view-display-id-attachment_4 .views-row {
+    border-color: #ffffff;
+}
+
+.view-id-latest_news.view-display-id-page  .views-row{
+	border-color: #ffffff;
+}
+
+.view-id-our_services.view-display-id-page .views-row{
+	border-color: #ffffff;
+}
+
+.view-id-home_page.view-display-id-attachment_5 .view-header {
+	border-color: #ffffff;
+}
+
+.view-id-adds_block.view-display-id-block .view-header{
+	border-color: #ffffff;
+} 
+
+.view-id-our_products.view-display-id-page .views-row {
+    border-color: #ffffff;
+}
+
+.view-id-products_portfolio .views-row {
+    border-color: #ffffff;
+}
+
+
+/* Main Menu Items Color*/
+
+#block-system-main-menu ul li a {
+    color: #888888;
+}
+
+.view-id-jquery_slideshow.view-display-id-block_1 .selector{
+	background: #888888;	
+}
+
+
+/*Main Menu Items Hover Color*/
+
+#block-system-main-menu ul li a.active, #block-system-main-menu ul li a:hover, #block-system-main-menu ul li a.active-trail {
+    color: #c76c00;   
+}
+
+.view-id-jquery_slideshow.view-display-id-block_1 .active .selector{
+	background: #c76c00;	
+}
+
+
+/*Forms Color*/
+
+input.form-submit {
+    background: none repeat scroll 0 0 #c9c9c9;
+    border: 1px outset;
+    color: #454040;
+}
+
+#block-search-form input.form-submit {
+    background: url(/sites/all/themes/corporate/images/search.png) no-repeat scroll 0 0 transparent;
+	border: none;
+}
+
+
+#block-search-form input.form-text {
+    background: none repeat scroll 0 0 #c9c9c9;
+	color: #454040;
+}
+
+#contact-site-form input.form-text, #contact-site-form textarea {
+    background: none repeat scroll 0 0 #c9c9c9;
+    border: medium none;
+    color: #454040;
+}
+
+
+/*Text Color*/
+
+body{
+	color: #454040 ;
+}
+
+.view-id-projects_tags ul li a {
+    color: #454040;
+}
+
+.view-id-home_page.view-display-id-attachment_1 .views-field-field-home-item-read-1 {
+    color: #454040;
+}
+
+#block-views-adds-block-block .views-field-title a{
+    color: #454040;
+}
+
+.field-type-taxonomy-term-reference .field-item a{
+    color: #454040;
+}
+
+
+/*Links Color*/
+
+a {
+	 color: #c76c00;
+	 text-decoration: none !important;	 
+}
+
+li a.active {
+    color: #c76c00;
+}
+
+#views_slideshow_cycle_main_jquery_slideshow-block_1 .views-field-field-link-text a {
+    color: #ffffff;	
+	background: none repeat scroll 0 0 #c76c00; 
+}
+
+#views_slideshow_cycle_main_jquery_slideshow-block_1 .views-field-field-link-text a:hover	 {
+    color: #c76c00;	
+	background: none repeat scroll 0 0 #ffffff;
+}
+
+
+ul.pager li a{
+	color: #7f7f7f;	
+	background: none repeat scroll 0 0 #fee378;
+}
+
+ul.pager li a:hover{
+	color: #c76c00;	
+	background: none repeat scroll 0 0 #ffffff;
+}
+    
+ /*Footer Color*/
+ 
+.region-footer {
+    background: none repeat scroll 0 0 #c4c4c4;
+}
+
+.region-footer  h2{
+    color: #303030 !important;
+}
+
+ /*Footer Text Color*/
+ 
+.region-footer {
+    color: #303030;
+}
+
+.region-footer a{
+    color: #303030 !important;
+	text-decoration: none;
+}
+
+/* Text Shadow Color */
+
+ul.pager li a{
+	box-shadow: 0 0 1px #ffffff;
+}
+
+h1 {
+	text-shadow: 1px 1px 0 #ffffff;
+}
+
+#block-system-main-menu ul li a {
+	text-shadow: 1px 1px 0 #ffffff;
+}
+
+#views_slideshow_cycle_main_jquery_slideshow-block_1 .views-slideshow-cycle-main-frame-row h2 a {
+    text-shadow: 1px 1px 3px #ffffff;
+}
+
+#views_slideshow_cycle_main_jquery_slideshow-block_1 .views-field-field-description {
+    text-shadow: 1px 1px 3px #ffffff;
+}
+
+#views_slideshow_cycle_main_jquery_slideshow-block_1 .views-field-field-link-text a {
+	box-shadow: 0 0 1px #ffffff;
+}
+
+.view-id-home_page.view-display-id-attachment_4 .view-header h2 a {    
+    text-shadow: 1px 1px 1px #545454;
+}
