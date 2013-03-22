@@ -107,7 +107,7 @@ ul.pager li a{
 }
 
 #corporate-header {
-    height: 62px;
+    height: 95px;
     position: absolute;
     width: 100%;
     z-index: -5;
@@ -1049,7 +1049,15 @@ input.form-submit {
     font-size: 1em;
 }
 
-#mc_embed_signup {
-    border-radius: 10px;
+legend {
+    font-weight: bold; 
+    color: #114a8e;
 }
 
+fieldset {
+    padding: 1.0em;
+    border-color: #f68c1e;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+}

@@ -104,7 +104,7 @@ ul.pager li a{
 }
 
 #corporate-header {
-    height: 77px;
+    height: 95px;
     position: absolute;
     width: 100%;
     z-index: -5;
@@ -208,7 +208,7 @@ h3 a {
 }
 
 #block-system-main-menu ul {
-    margin-top: 0.86em;
+    margin-top: 1em;
     padding-left: 0;
     padding-right: 14px;
 }
@@ -220,7 +220,7 @@ h3 a {
 
 #block-system-main-menu ul li a {
     display: inline-block;
-    font-size: 0.86em;
+    font-size: 1em;
     padding: 10px !important;
     text-decoration: none;
 }

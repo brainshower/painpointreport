@@ -179,7 +179,7 @@ h2.block-title {
 /*Forms Color*/
 
 input.form-submit {
-    background: none repeat scroll 0 0 green;
+    background: none repeat scroll 0 0 #114a8e;
     border: 1px outset;
     color: white;
 }
@@ -289,7 +289,8 @@ h1 {
 }
 
 #block-system-main-menu ul li a {
-	text-shadow: 1px 1px 0 #010101;
+/*	text-shadow: 1px 1px 0 #010101; */
+	text-shadow: none; 
 }
 
 #views_slideshow_cycle_main_jquery_slideshow-block_1 .views-slideshow-cycle-main-frame-row h2 a {
