@@ -12,7 +12,7 @@ h1 {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: Georgia,serif !important;
+    /* font-family: Georgia,serif !important; */
     font-weight: normal;
 	line-height: 1.3em;
 }
@@ -27,14 +27,14 @@ h6 {
 }
 
 h2 a {
-    font-family: Georgia, serif !important;
+    /* font-family: Georgia, serif !important; */
     font-size: 1em;
     font-weight: normal;
     text-decoration: none;
 }
 
 p{	
-	font-size: 0.9em;
+	font-size: 1.0em;
 }
 
 ul li {
@@ -86,6 +86,7 @@ body.one-sidebar.sidebar-second #main #content {
 
 .region-sidebar-second .block .content {
     padding: 20px 14px;
+    border-radius: 10px;
 }
 
 .region-sidebar-second .section .block {
@@ -130,7 +131,7 @@ h2.block-title {
 }
 
 h3 a {
-    font-family: Georgia,serif;
+    /* font-family: Georgia,serif; */
     font-size: 1em;
     font-weight: normal;
     text-decoration: none;
@@ -211,7 +212,7 @@ h3 a {
 
 #block-system-main-menu ul li a {
     display: inline-block;
-    font-size: 0.86em;
+    font-size: 1em;
     padding: 10px !important;
     text-decoration: none;
 }
@@ -1042,8 +1043,13 @@ body.page-home h1{
 input.form-submit {
     padding: 10px;
     border-radius: 5px;
-    box-shadow: 1px 1px 3px #888;
-    text-shadow: 0 -1px 0 #bbb;
+    /* box-shadow: 1px 1px 3px #888; */
     background-image: -webkit-linear-gradient(top, #d1d1d1, #949494);
     background-repeat: repeat-x;
+    font-size: 1em;
 }
+
+#mc_embed_signup {
+    border-radius: 10px;
+}
+

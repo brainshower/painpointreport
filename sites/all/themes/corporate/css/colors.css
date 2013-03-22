@@ -110,7 +110,7 @@ h1, h2, h3{
 }
 
 h2, h3{
-	text-shadow: 1px 1px 1px #212121;
+/*	text-shadow: 1px 1px 1px #212121; */
 }
 
 body {
@@ -179,9 +179,9 @@ h2.block-title {
 /*Forms Color*/
 
 input.form-submit {
-    background: none repeat scroll 0 0 #656565;
+    background: none repeat scroll 0 0 green;
     border: 1px outset;
-    color: #BABABA;
+    color: white;
 }
 
 #block-search-form input.form-submit {
@@ -285,7 +285,7 @@ ul.pager li a{
 }
 
 h1 {
-	text-shadow: 1px 1px 0 #010101;
+/*	text-shadow: 1px 1px 0 #010101; */
 }
 
 #block-system-main-menu ul li a {
