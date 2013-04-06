@@ -179,8 +179,9 @@ h2.block-title {
 /*Forms Color*/
 
 input.form-submit {
-    background: none repeat scroll 0 0 #114a8e;
-    border: 1px outset;
+    background-color: #114a8e;
+    border: none;
+    border-radius: 10px;
     color: white;
 }
 
